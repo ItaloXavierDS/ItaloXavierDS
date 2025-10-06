@@ -1,7 +1,14 @@
-- Olá, me chamo Italo Xavier.👋🏾
+# 🖥️ Italo Xavier
 
 - 🌱 Aprendendo linguagem Kotlin.
 
+ <p align="left">
+      <a href="https://github.com/ItaloXavierDS?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ItaloXavierDS?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <a href="https://github.com/ItaloXavierDS?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ItaloXavierDS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
+   </p>
+  
 <a href="https://github.com/ItaloXavierDS/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ItaloXavierDS" />
 </a>
