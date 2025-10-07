@@ -20,10 +20,18 @@
   ---
 
 ### 📊 Estatísticas 
-   
-<a href="https://github.com/ItaloXavierDS/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ItaloXavierDS" />
-</a>
-<a href="https://github.com/ItaloXavierDS/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloXavierDS&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+ <img
+  align="left"
+  alt="GitHub stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=ItaloXavierDS&show_icons=true&theme=tokyonight&incluide_all_commides=true&locale=pt-br"
+/>
+<img
+  align="left"
+  alt="GitHub stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloXavierDS&layout=compact"
+/>
