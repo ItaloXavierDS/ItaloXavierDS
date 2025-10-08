@@ -36,4 +36,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloXavierDS&theme=tokyonight&layout=compact&locale=pt-br"
 />
 
+<div align-"center">
+ 
 ![snake gif](https://github.com/ItaloXavierDS/ItaloXavierDS/blob/output/github-contribution-grid-snake.svg)
+</div>
