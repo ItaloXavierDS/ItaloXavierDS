@@ -13,7 +13,7 @@
 
 ### 💻 Linguagem e Tecnologia
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 <br>
 
@@ -35,6 +35,8 @@
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloXavierDS&theme=tokyonight&layout=compact&locale=pt-br"
 />
+
+<img align="hight" alt="Italo-RockLee" width="120px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTExbThtczhxc3NyOXlsajd3Zng1Njl1bW14OWpsOWZtczUzODlxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5edWdLDtBlZr9YRYwM/giphy.gif" />
 
 <div align-"center">
  
