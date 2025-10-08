@@ -21,6 +21,7 @@
 
 ### 📊 Estatísticas 
 
+<div>
  <img
   align="left"
   alt="GitHub stats"
@@ -35,5 +36,6 @@
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloXavierDS&theme=tokyonight&layout=compact&locale=pt-br"
 />
+</div>
 
 ![snake gif](https://github.com/ItaloXavierDS/ItaloXavierDS/blob/output/github-contribution-grid-snake.gif)
