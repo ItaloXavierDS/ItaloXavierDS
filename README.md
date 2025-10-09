@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=ItaloXavierDS&color=488207"><br>
 # 🖥️ Italo Xavier
 
 - 🌱 **`Aprendendo linguagem Kotlin`**
